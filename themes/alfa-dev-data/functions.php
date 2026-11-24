@@ -1,5 +1,7 @@
 <?php
 
+require_once get_theme_file_path( 'inc/site-content.php' );
+
 function alfa_dev_data_setup() {
 	add_theme_support( 'title-tag' );
 	add_theme_support( 'post-thumbnails' );
