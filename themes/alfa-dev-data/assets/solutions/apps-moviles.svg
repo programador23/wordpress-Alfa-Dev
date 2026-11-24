@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="520" viewBox="0 0 800 520" fill="none">
+  <rect width="800" height="520" rx="22" fill="#EAF0F5"/>
+  <text x="54" y="61" fill="#244968" font-family="Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="1.5">EXPERIENCIA MÓVIL · VISTA DE EJEMPLO</text>
+  <rect x="121" y="79" width="250" height="405" rx="31" fill="#17314D"/>
+  <rect x="133" y="92" width="226" height="379" rx="23" fill="#fff"/>
+  <rect x="204" y="101" width="84" height="7" rx="3.5" fill="#17314D"/>
+  <text x="151" y="139" fill="#718196" font-family="Arial,sans-serif" font-size="9">Buenos días, Ana</text>
+  <text x="151" y="164" fill="#17314D" font-family="Arial,sans-serif" font-size="18" font-weight="700">¿Qué necesitas?</text>
+  <rect x="151" y="180" width="190" height="75" rx="8" fill="#EAF1F5"/>
+  <circle cx="180" cy="217" r="20" fill="#D1E0E7"/>
+  <path d="M169 219c2-9 6-14 11-14s9 5 11 14m-17-5a6 6 0 1 1 12 0" stroke="#456B91" stroke-width="2" stroke-linecap="round"/>
+  <text x="210" y="209" fill="#17314D" font-family="Arial,sans-serif" font-size="9" font-weight="700">Tu próxima visita</text>
+  <text x="210" y="226" fill="#63758A" font-family="Arial,sans-serif" font-size="8">Jueves · 10:30</text>
+  <text x="151" y="284" fill="#17314D" font-family="Arial,sans-serif" font-size="10" font-weight="700">Servicios disponibles</text>
+  <rect x="151" y="296" width="190" height="43" rx="6" fill="#fff" stroke="#E1E7EC"/>
+  <circle cx="172" cy="317" r="11" fill="#EAF1F5"/>
+  <path d="M168 317h8m-4-4v8" stroke="#456B91" stroke-width="1.5" stroke-linecap="round"/>
+  <text x="192" y="315" fill="#17314D" font-family="Arial,sans-serif" font-size="8" font-weight="700">Reservar una hora</text>
+  <text x="192" y="328" fill="#718196" font-family="Arial,sans-serif" font-size="7">Elige servicio y horario</text>
+  <rect x="151" y="347" width="190" height="43" rx="6" fill="#fff" stroke="#E1E7EC"/>
+  <circle cx="172" cy="368" r="11" fill="#EAF1F5"/>
+  <path d="M167 368h10m-5-5v10" stroke="#456B91" stroke-width="1.5" stroke-linecap="round"/>
+  <text x="192" y="366" fill="#17314D" font-family="Arial,sans-serif" font-size="8" font-weight="700">Consultar solicitud</text>
+  <text x="192" y="379" fill="#718196" font-family="Arial,sans-serif" font-size="7">Revisa su estado</text>
+  <path d="M151 408h190" stroke="#E7ECF0"/>
+  <circle cx="177" cy="431" r="4" fill="#456B91"/>
+  <circle cx="230" cy="431" r="4" fill="#AAB6C2"/>
+  <circle cx="283" cy="431" r="4" fill="#AAB6C2"/>
+  <circle cx="330" cy="431" r="4" fill="#AAB6C2"/>
+  <rect x="420" y="79" width="250" height="405" rx="31" fill="#17314D"/>
+  <rect x="432" y="92" width="226" height="379" rx="23" fill="#fff"/>
+  <rect x="503" y="101" width="84" height="7" rx="3.5" fill="#17314D"/>
+  <path d="m455 141-5 5 5 5" stroke="#456B91" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="474" y="148" fill="#17314D" font-family="Arial,sans-serif" font-size="12" font-weight="700">Nueva reserva</text>
+  <text x="454" y="177" fill="#718196" font-family="Arial,sans-serif" font-size="8">SELECCIONA UN DÍA</text>
+  <rect x="454" y="190" width="43" height="49" rx="6" fill="#173A5D"/>
+  <text x="465" y="208" fill="#DCE6EF" font-family="Arial,sans-serif" font-size="7">JUE</text>
+  <text x="467" y="228" fill="#fff" font-family="Arial,sans-serif" font-size="13" font-weight="700">14</text>
+  <rect x="505" y="190" width="43" height="49" rx="6" fill="#F3F6F8"/>
+  <text x="516" y="208" fill="#718196" font-family="Arial,sans-serif" font-size="7">VIE</text>
+  <text x="518" y="228" fill="#17314D" font-family="Arial,sans-serif" font-size="13" font-weight="700">15</text>
+  <rect x="556" y="190" width="43" height="49" rx="6" fill="#F3F6F8"/>
+  <text x="567" y="208" fill="#718196" font-family="Arial,sans-serif" font-size="7">SÁB</text>
+  <text x="569" y="228" fill="#17314D" font-family="Arial,sans-serif" font-size="13" font-weight="700">16</text>
+  <text x="454" y="270" fill="#718196" font-family="Arial,sans-serif" font-size="8">HORARIOS DISPONIBLES</text>
+  <rect x="454" y="282" width="88" height="31" rx="5" fill="#F3F6F8"/>
+  <text x="476" y="302" fill="#52667B" font-family="Arial,sans-serif" font-size="9">09:30</text>
+  <rect x="550" y="282" width="88" height="31" rx="5" fill="#EAF1F5" stroke="#9BB2C3"/>
+  <text x="572" y="302" fill="#315B7D" font-family="Arial,sans-serif" font-size="9" font-weight="700">10:30</text>
+  <rect x="454" y="320" width="88" height="31" rx="5" fill="#F3F6F8"/>
+  <text x="476" y="340" fill="#52667B" font-family="Arial,sans-serif" font-size="9">11:30</text>
+  <rect x="550" y="320" width="88" height="31" rx="5" fill="#F3F6F8"/>
+  <text x="572" y="340" fill="#52667B" font-family="Arial,sans-serif" font-size="9">12:30</text>
+  <rect x="454" y="371" width="184" height="36" rx="6" fill="#173A5D"/>
+  <text x="500" y="394" fill="#fff" font-family="Arial,sans-serif" font-size="9" font-weight="700">CONFIRMAR RESERVA</text>
+  <circle cx="545" cy="446" r="4" fill="#AAB6C2"/>
+</svg>

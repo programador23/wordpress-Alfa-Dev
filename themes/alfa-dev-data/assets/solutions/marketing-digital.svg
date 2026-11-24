@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="520" viewBox="0 0 800 520" fill="none">
+  <rect width="800" height="520" rx="22" fill="#EAF0F5"/>
+  <rect x="26" y="24" width="748" height="472" rx="12" fill="#fff" stroke="#D8E1E9"/>
+  <path d="M38 24h724a12 12 0 0 1 12 12v28H26V36a12 12 0 0 1 12-12Z" fill="#F6F8FA"/>
+  <circle cx="47" cy="43" r="5" fill="#C77C78"/>
+  <circle cx="65" cy="43" r="5" fill="#D6B87A"/>
+  <circle cx="83" cy="43" r="5" fill="#78A994"/>
+  <rect x="281" y="36" width="238" height="14" rx="7" fill="#E8EDF2"/>
+  <rect x="26" y="62" width="148" height="434" fill="#F7F9FB"/>
+  <text x="47" y="91" fill="#244968" font-family="Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="1.2">ALFA / MARKETING</text>
+  <rect x="43" y="112" width="112" height="31" rx="5" fill="#E8EFF5"/>
+  <text x="57" y="132" fill="#315B7D" font-family="Arial,sans-serif" font-size="10" font-weight="700">Resumen</text>
+  <text x="57" y="171" fill="#718196" font-family="Arial,sans-serif" font-size="10">Campañas</text>
+  <text x="57" y="203" fill="#718196" font-family="Arial,sans-serif" font-size="10">Contenidos</text>
+  <text x="57" y="235" fill="#718196" font-family="Arial,sans-serif" font-size="10">Audiencias</text>
+  <text x="57" y="267" fill="#718196" font-family="Arial,sans-serif" font-size="10">Informes</text>
+  <text x="198" y="100" fill="#17314D" font-family="Arial,sans-serif" font-size="20" font-weight="700">Rendimiento de campañas</text>
+  <text x="198" y="120" fill="#718196" font-family="Arial,sans-serif" font-size="9">Vista de ejemplo · últimos 30 días</text>
+  <rect x="652" y="82" width="93" height="27" rx="5" fill="#fff" stroke="#D8E1E9"/>
+  <text x="667" y="99" fill="#52667B" font-family="Arial,sans-serif" font-size="9">Este mes  ▾</text>
+  <rect x="198" y="140" width="166" height="76" rx="6" fill="#fff" stroke="#E1E7EC"/>
+  <text x="214" y="160" fill="#718196" font-family="Arial,sans-serif" font-size="9">ALCANCE TOTAL</text>
+  <text x="214" y="190" fill="#17314D" font-family="Arial,sans-serif" font-size="23" font-weight="700">24.860</text>
+  <text x="214" y="205" fill="#718196" font-family="Arial,sans-serif" font-size="8">personas alcanzadas</text>
+  <rect x="376" y="140" width="166" height="76" rx="6" fill="#fff" stroke="#E1E7EC"/>
+  <text x="392" y="160" fill="#718196" font-family="Arial,sans-serif" font-size="9">INTERACCIONES</text>
+  <text x="392" y="190" fill="#17314D" font-family="Arial,sans-serif" font-size="23" font-weight="700">1.420</text>
+  <text x="392" y="205" fill="#718196" font-family="Arial,sans-serif" font-size="8">en canales digitales</text>
+  <rect x="554" y="140" width="191" height="76" rx="6" fill="#fff" stroke="#E1E7EC"/>
+  <text x="570" y="160" fill="#718196" font-family="Arial,sans-serif" font-size="9">CONTENIDOS PUBLICADOS</text>
+  <text x="570" y="190" fill="#17314D" font-family="Arial,sans-serif" font-size="23" font-weight="700">18</text>
+  <text x="570" y="205" fill="#718196" font-family="Arial,sans-serif" font-size="8">durante el período</text>
+  <rect x="198" y="232" width="348" height="225" rx="6" fill="#fff" stroke="#E1E7EC"/>
+  <text x="216" y="255" fill="#17314D" font-family="Arial,sans-serif" font-size="11" font-weight="700">Actividad por semana</text>
+  <text x="216" y="271" fill="#718196" font-family="Arial,sans-serif" font-size="8">Interacciones en canales</text>
+  <path d="M222 412h298M222 382h298M222 352h298M222 322h298" stroke="#E7ECF0"/>
+  <path d="m234 392 44-28 43 15 44-35 45 12 43-31 46 10" stroke="#456B91" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="499" cy="335" r="4" fill="#287C85"/>
+  <text x="221" y="432" fill="#8391A0" font-family="Arial,sans-serif" font-size="8">SEM 1</text>
+  <text x="302" y="432" fill="#8391A0" font-family="Arial,sans-serif" font-size="8">SEM 2</text>
+  <text x="383" y="432" fill="#8391A0" font-family="Arial,sans-serif" font-size="8">SEM 3</text>
+  <text x="464" y="432" fill="#8391A0" font-family="Arial,sans-serif" font-size="8">SEM 4</text>
+  <rect x="558" y="232" width="187" height="225" rx="6" fill="#fff" stroke="#E1E7EC"/>
+  <text x="575" y="255" fill="#17314D" font-family="Arial,sans-serif" font-size="11" font-weight="700">Próximos contenidos</text>
+  <rect x="575" y="274" width="153" height="48" rx="5" fill="#F4F7F9"/>
+  <rect x="585" y="284" width="27" height="27" rx="4" fill="#DDE8E7"/>
+  <text x="620" y="292" fill="#17314D" font-family="Arial,sans-serif" font-size="8" font-weight="700">Presentación de servicio</text>
+  <text x="620" y="306" fill="#718196" font-family="Arial,sans-serif" font-size="7">Redes · Programado</text>
+  <rect x="575" y="331" width="153" height="48" rx="5" fill="#F4F7F9"/>
+  <rect x="585" y="341" width="27" height="27" rx="4" fill="#E7E1D8"/>
+  <text x="620" y="349" fill="#17314D" font-family="Arial,sans-serif" font-size="8" font-weight="700">Consejos para clientes</text>
+  <text x="620" y="363" fill="#718196" font-family="Arial,sans-serif" font-size="7">Blog · En revisión</text>
+  <rect x="575" y="395" width="153" height="43" rx="5" fill="#F4F7F9"/>
+  <rect x="585" y="403" width="27" height="27" rx="4" fill="#DCE5ED"/>
+  <text x="620" y="411" fill="#17314D" font-family="Arial,sans-serif" font-size="8" font-weight="700">Novedades de marca</text>
+  <text x="620" y="425" fill="#718196" font-family="Arial,sans-serif" font-size="7">Correo · Borrador</text>
+</svg>

@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="520" viewBox="0 0 800 520" fill="none">
+  <rect width="800" height="520" rx="22" fill="#EAF0F5"/>
+  <rect x="26" y="24" width="748" height="472" rx="12" fill="#fff" stroke="#D8E1E9"/>
+  <path d="M38 24h724a12 12 0 0 1 12 12v28H26V36a12 12 0 0 1 12-12Z" fill="#F6F8FA"/>
+  <circle cx="47" cy="43" r="5" fill="#C77C78"/>
+  <circle cx="65" cy="43" r="5" fill="#D6B87A"/>
+  <circle cx="83" cy="43" r="5" fill="#78A994"/>
+  <rect x="281" y="36" width="238" height="14" rx="7" fill="#E8EDF2"/>
+  <rect x="26" y="62" width="158" height="434" fill="#173A5D"/>
+  <text x="48" y="91" fill="#fff" font-family="Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="1">ALFA / OPERACIONES</text>
+  <rect x="42" y="112" width="126" height="32" rx="5" fill="#2A5274"/>
+  <text x="57" y="132" fill="#fff" font-family="Arial,sans-serif" font-size="9" font-weight="700">Panel general</text>
+  <text x="57" y="171" fill="#C6D3DF" font-family="Arial,sans-serif" font-size="9">Solicitudes</text>
+  <text x="57" y="203" fill="#C6D3DF" font-family="Arial,sans-serif" font-size="9">Proyectos</text>
+  <text x="57" y="235" fill="#C6D3DF" font-family="Arial,sans-serif" font-size="9">Clientes</text>
+  <text x="57" y="267" fill="#C6D3DF" font-family="Arial,sans-serif" font-size="9">Informes</text>
+  <circle cx="58" cy="459" r="12" fill="#DCE6EF"/>
+  <text x="79" y="456" fill="#fff" font-family="Arial,sans-serif" font-size="8">Equipo Alfa</text>
+  <text x="79" y="468" fill="#C6D3DF" font-family="Arial,sans-serif" font-size="7">Administrador</text>
+  <text x="208" y="101" fill="#17314D" font-family="Arial,sans-serif" font-size="20" font-weight="700">Panel de operaciones</text>
+  <text x="208" y="120" fill="#718196" font-family="Arial,sans-serif" font-size="9">Hola, equipo. Aquí está el resumen de hoy.</text>
+  <rect x="654" y="82" width="91" height="27" rx="5" fill="#173A5D"/>
+  <text x="668" y="99" fill="#fff" font-family="Arial,sans-serif" font-size="8" font-weight="700">+ NUEVO</text>
+  <rect x="208" y="141" width="161" height="76" rx="6" fill="#fff" stroke="#E1E7EC"/>
+  <text x="223" y="161" fill="#718196" font-family="Arial,sans-serif" font-size="8">TAREAS ABIERTAS</text>
+  <text x="223" y="190" fill="#17314D" font-family="Arial,sans-serif" font-size="23" font-weight="700">12</text>
+  <rect x="384" y="141" width="161" height="76" rx="6" fill="#fff" stroke="#E1E7EC"/>
+  <text x="399" y="161" fill="#718196" font-family="Arial,sans-serif" font-size="8">EN PROCESO</text>
+  <text x="399" y="190" fill="#17314D" font-family="Arial,sans-serif" font-size="23" font-weight="700">08</text>
+  <rect x="561" y="141" width="184" height="76" rx="6" fill="#fff" stroke="#E1E7EC"/>
+  <text x="576" y="161" fill="#718196" font-family="Arial,sans-serif" font-size="8">SOLICITUDES NUEVAS</text>
+  <text x="576" y="190" fill="#17314D" font-family="Arial,sans-serif" font-size="23" font-weight="700">04</text>
+  <rect x="208" y="235" width="537" height="238" rx="6" fill="#fff" stroke="#E1E7EC"/>
+  <text x="225" y="260" fill="#17314D" font-family="Arial,sans-serif" font-size="11" font-weight="700">Solicitudes recientes</text>
+  <text x="225" y="285" fill="#8391A0" font-family="Arial,sans-serif" font-size="8" font-weight="700">SOLICITUD</text>
+  <text x="432" y="285" fill="#8391A0" font-family="Arial,sans-serif" font-size="8" font-weight="700">RESPONSABLE</text>
+  <text x="586" y="285" fill="#8391A0" font-family="Arial,sans-serif" font-size="8" font-weight="700">ESTADO</text>
+  <path d="M225 296h502M225 340h502M225 384h502M225 428h502" stroke="#E8EDF1"/>
+  <circle cx="237" cy="319" r="11" fill="#E7EEF4"/>
+  <text x="255" y="316" fill="#17314D" font-family="Arial,sans-serif" font-size="9" font-weight="700">Actualizar catálogo web</text>
+  <text x="255" y="329" fill="#718196" font-family="Arial,sans-serif" font-size="7">Proyecto · #1048</text>
+  <text x="432" y="322" fill="#52667B" font-family="Arial,sans-serif" font-size="8">María R.</text>
+  <rect x="586" y="309" width="73" height="19" rx="9" fill="#EAF2ED"/>
+  <text x="598" y="322" fill="#49765A" font-family="Arial,sans-serif" font-size="7" font-weight="700">EN CURSO</text>
+  <circle cx="237" cy="363" r="11" fill="#E7EEF4"/>
+  <text x="255" y="360" fill="#17314D" font-family="Arial,sans-serif" font-size="9" font-weight="700">Revisar solicitud de cliente</text>
+  <text x="255" y="373" fill="#718196" font-family="Arial,sans-serif" font-size="7">Soporte · #1047</text>
+  <text x="432" y="366" fill="#52667B" font-family="Arial,sans-serif" font-size="8">Javier M.</text>
+  <rect x="586" y="353" width="73" height="19" rx="9" fill="#F3F0E7"/>
+  <text x="598" y="366" fill="#8A7341" font-family="Arial,sans-serif" font-size="7" font-weight="700">PENDIENTE</text>
+  <circle cx="237" cy="407" r="11" fill="#E7EEF4"/>
+  <text x="255" y="404" fill="#17314D" font-family="Arial,sans-serif" font-size="9" font-weight="700">Preparar informe mensual</text>
+  <text x="255" y="417" fill="#718196" font-family="Arial,sans-serif" font-size="7">Administración · #1046</text>
+  <text x="432" y="410" fill="#52667B" font-family="Arial,sans-serif" font-size="8">Lucía P.</text>
+  <rect x="586" y="397" width="73" height="19" rx="9" fill="#EDF1F5"/>
+  <text x="598" y="410" fill="#52667B" font-family="Arial,sans-serif" font-size="7" font-weight="700">ASIGNADO</text>
+  <text x="225" y="455" fill="#456B91" font-family="Arial,sans-serif" font-size="8" font-weight="700">Ver todas las solicitudes →</text>
+</svg>
